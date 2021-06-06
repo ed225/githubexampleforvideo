@@ -1,0 +1,51 @@
+
+
+header{
+	font-size: 50px;
+	color:red;
+	text-align: center;
+    font-family: algerian;
+	}
+
+
+*{
+	font-size: 15px;
+	color: pink;
+	text-align: justify;
+	font-family: Georgia;
+
+
+}
+body{
+	background-image: url("3.jpg");
+	object-fit: cover;
+}
+
+table {
+	margin: auto;
+	width: 700px;
+}
+
+#EDUARDO{
+	color:white;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: algerian ;
+	
+}
+
+#Enuel{
+	color:white;
+	text-decoration: none;
+	font-size: 30px;
+	font-family:  algerian;
+	
+}
+
+footer{
+	color:brown;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 30px;
+	font-family:  algerian;
+}
