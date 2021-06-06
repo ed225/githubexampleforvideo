@@ -1,0 +1,3 @@
+# githubexampleforvideo
+este es mi examen final de logica en sitemas
+este es mi archivo donde presento mi examen final de introduccion a  los sistemas de computo UMG ...
